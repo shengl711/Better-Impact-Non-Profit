@@ -4,8 +4,14 @@
 
 - A dynamitc, interactive data visualization that provideds high-level overview of the impact of English Program provided by volunteers for a non-profit local organization since 2020. 
 
-- Better Impact Dashboard is designed specifically for upper management like Director and Board members to see the impact of increasing scope and impact of local English Program provided by volunteers around the world with drilldown capabiility to focus on different key metrices of quarter, year and class types.  
+- This dashboard is designed specifically for upper management like Director and Board members to see the increasing scope and impact of local English Program provided by volunteers around the world with drilldown capabiility to focus on different key metrices of quarter, year and class types.  
 
+## Technologies Used
+
+- Power BI Desktop
+- Selenium (This is part of ETL process to extract reports from Better Impact Volunteer Management website)
+- Python (This is part of ETL process to invoke Selenium and creating email notifications for missing hours to each Volunteer)
+  
 ## Features
 
 - Data Source
