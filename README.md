@@ -1,4 +1,4 @@
-# Better-Impact English Session Dashboard
+# Better-Impact English Program Dashboard
 
 ##  Project Information
 
@@ -17,7 +17,7 @@
 - Features / Highlights
   	- There's no 1:1 relationship between Scheduled Session and Actual Volunteer Sessions which means extra outer join is required
   	- A separate Date dimension was created for proper time intelligence analysis
-  	- 
+  	- Sensitive data of both learners and volunteers were anonymized 
 - Business Impact & Insights
 
     - Volunteer Hours Reporting Discrepancy 
@@ -33,5 +33,6 @@
 
 ![Dashboard Preview](https://github.com/shengl711/Better-Impact-Non-Profit/blob/main/Better_Impact_filter.png).
 
-- Slicer panel to select quarter, year and Class type
+- Main Dashboard including Missing Hours reported over time and Missing Hours per top volunteer
 
+![Dashboard Preview](https://github.com/shengl711/Better-Impact-Non-Profit/blob/main/Better_Impact_Missing_Hours.png).
