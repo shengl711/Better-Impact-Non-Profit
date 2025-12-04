@@ -1,6 +1,6 @@
-# Better-Impact Dashboard
+# Better-Impact English Session Dashboard
 
-1.  Project Headline
+##  Project Headline
 
 English Lesson Volunteer Insights Dashboard
 A dynamitc, interactive data visualization that provideds high-level overview of the impact of English Language Lessons provided by volunteers for a non-profit local organization since 2020. 
@@ -17,10 +17,16 @@ File Format - .pbix for development and .png for dashboard previews.
 
 5.  Data Source
 
+	a.  Over 31k records of Volunteer Reported Hours documented on Better Impact Volunteer Management website
+	b.  ~1k records of Volunteer Feedback reports documented on Better Impact Volunteer Management website
+	c.  Over 4k records of Scheduled English sessions tracked on Better Impact Volunteer Management website
 
+7.  Features / Highlights
+8.  Business Impact & Insights
 
-6.  Features / Highlights
+   a.  Volunteer Hours Reporting Discrepancy - 
+	b.  
 
-7.  Screenshots
+9.  Screenshots
    
 ![Dashboard Preview](https://github.com/shengl711/Better-Impact-Non-Profit/blob/main/Better_Impact.png).
